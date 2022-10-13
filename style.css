@@ -1,0 +1,25 @@
+body {
+
+	background: lightgreen;
+}
+
+h1 {
+	font-size: medium;
+
+}
+
+
+
+.container {
+	display: flex;
+	flex-wrap: nowrap;
+
+}
+
+.icon {
+	flex-basis: 25%;
+}
+
+.text {
+	flex-basis: 75%;
+}
